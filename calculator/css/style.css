@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("/simple.jpg");
+}
+.main{
+    margin-left:40%;
+   
+}
+.button{
+    width:50px;
+    height: 50px;
+    font-size: 25px;
+    margin:2px;
+    cursor: pointer;
+    background-color: #ffe78f;
+}
+.button:hover{
+    background-color: #eeeeee;
+}
+#screen{
+    width: 202px;
+    margin:6px;
+    font-size: 25px;
+    padding:5px;
+}
+.cover{
+    width: 14rem;
+    height: 22rem;
+    border: 1px solid black;
+    padding: 20px;
+    background-color:#f09ae9;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+}
+#cal{
+    margin-left: 20px;
+    margin-bottom: 40px;
+    font-size: 50px;
+    color:#cf1b1b;
+}
